@@ -1,6 +1,6 @@
 ## Proyecto final para la materia Programacion Orientada a Objetos
 
-#### Estado: Todavia no fue calificado ni visto por la catedra
+#### Estado: Aprobado
 > #### Biblioteca principal usada: SFML c++
 
 # Preview:
